@@ -1,7 +1,7 @@
 
 # DSI
 
-## Base de datos
+## Base de datos - SQL Server
 
 ```sql
 create database DSI;
