@@ -1,6 +1,6 @@
 [submodule "DSI-BACK"]
 	path = DSI-BACK
 	url = https://github.com/KEVAO18/DSI-BACK
-[submodule "DSI-FRONT"]
-	path = DSI-FRONT
-	url = https://github.com/KEVAO18/DSI-FRONT
+[submodule "DSI"]
+	path = DSI
+	url = https://github.com/gorrografico7/DSI
